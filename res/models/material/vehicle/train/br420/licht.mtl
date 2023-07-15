@@ -1,0 +1,29 @@
+function data()
+return {
+	params = {
+		fade_out_range = {
+			fadeOutEndDist = 20000,
+			fadeOutStartDist = 10000,
+		},
+		map_emissive = {
+			fileName = "models/vehicle/train/br420/licht.hdr",
+			type = "TWOD",
+			wrapS = "REPEAT",
+			wrapT = "REPEAT",
+		},
+		polygon_offset = {
+			factor = 0,
+			units = 0,
+		},
+		props = {
+			coeffs = {
+				2, 1, 0.25, 30,
+			},
+		},
+		two_sided = {
+			twoSided = false,
+		},
+	},
+	type = "EMISSIVE",
+}
+end

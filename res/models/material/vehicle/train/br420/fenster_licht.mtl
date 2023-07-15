@@ -1,0 +1,32 @@
+function data()
+return {
+	params = {
+		fade_out_range = {
+			fadeOutEndDist = 20000,
+			fadeOutStartDist = 10000,
+		},
+		map_albedo_opacity = {
+			fileName = "models/vehicle/train/br420/fenster_albedo_opacity.dds",
+			type = "TWOD",
+			wrapS = "CLAMP_TO_EDGE",
+			wrapT = "CLAMP_TO_EDGE",
+		},
+		map_metal_gloss_ao = {
+			fileName = "models/vehicle/train/br420/fenster_metal_gloss_ao.dds",
+			type = "TWOD",
+			wrapS = "CLAMP_TO_EDGE",
+			wrapT = "CLAMP_TO_EDGE",
+		},
+		polygon_offset = {
+			factor = -1,
+			forceDepthWrite = false,
+			units = -1,
+		},
+		two_sided = {
+			flipNormal = true,
+			twoSided = false,
+		},
+	},
+	type = "PHYS_TRANSPARENT",
+}
+end
