@@ -2461,7 +2461,7 @@ return {
 			engines = {
 
 			},
-			soundSet = { name = "br420", },
+			soundSet = { name = "br420_neu", },
 			topSpeed = 33.333333333333,
 			weight = 45,
 		},

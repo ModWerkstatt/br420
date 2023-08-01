@@ -613,7 +613,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br420/innen_80.mtl", },
-						mesh = "vehicle/train/br420/innen_2_lod0.msh",
+						mesh = "vehicle/train/br420/innen_2_modern_lod0.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -654,7 +654,7 @@ return {
 				children = {
 					{
 						materials = { "vehicle/train/br420/rumpf_modern_2_vr.mtl", },
-						mesh = "vehicle/train/br420/rumpf_lod1.msh",
+						mesh = "vehicle/train/br420/rumpf_modern_lod1.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -1273,7 +1273,7 @@ return {
 				children = {
 					{
 						materials = { "vehicle/train/br420/rumpf_modern_2_vr.mtl", },
-						mesh = "vehicle/train/br420/rumpf_lod2.msh",
+						mesh = "vehicle/train/br420/rumpf_modern_lod2.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -1862,7 +1862,7 @@ return {
 				children = {
 					{
 						materials = { "vehicle/train/br420/rumpf_modern_2_vr.mtl", },
-						mesh = "vehicle/train/br420/rumpf_lod3.msh",
+						mesh = "vehicle/train/br420/rumpf_modern_lod3.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -2511,7 +2511,7 @@ return {
 					type = "ELECTRIC",
 				},
 			},
-			soundSet = { name = "br420", },
+			soundSet = { name = "br420_neu", },
 			topSpeed = 33.333333333333,
 			weight = 45,
 		},
