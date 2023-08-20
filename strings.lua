@@ -36,8 +36,17 @@ return {
         ["br420_modern_vr_name"] = "Class 420 Hinged doors, traffic red (1996)",
 		["br420_modern_vr_desc"] = "With the railway reform, local trains have been repainted in traffic red with white doors since 1996. To this day, the operations still continue, at least in Munich's network.",
 
-        ["br420_modern_werbung_sz_name"] = "Class 420 Schwenktüren Süddeutsche Zeitung (2005)",
+        ["br420_modern_werbung_sz_name"] = "Class 420 Hinged doors Süddeutsche Zeitung (2005)",
 		["br420_modern_werbung_sz_desc"] = "Full-surface advertising wrapping of the Süddeutsche Zeitung.",
+
+        ["br420_werbung_saturn_isdn_name"] = "BR 420 Full body ad Saturn ISDN (2000)",
+		["br420_werbung_saturn_isdn_desc"] = "Full-surface advertising wrapping of Saturn and Deutsche Telekom.",
+
+        ["br420_werbung_schwabenbraeu_name"] = "BR 420 Advert Schwaben Bräu (1984)",
+        ["br420_werbung_schwabenbraeu_desc"] = "Vehicle of S-Bahn Stuttgart with ads for Schwabenbräu.",
+
+        ["br420_led_vr_name"] = "Class 420 with LED lights, traffic red (2014)",
+		["br420_led_vr_desc"] = "With LED lights and train indicator.",
 
 	},
 	de = {
@@ -74,10 +83,19 @@ return {
 		["br420_modern_lo_desc"] = "1987 hat die Deutsche Bundesbahn das Farbdesign ihrer Fahrzeuge geändert, als sie die sogenannten Produktfarben einführte. Das orange wurde in ähnlicher Farbe beibehalten, aber mit einem gelben Begleitstreifen ergänzt. Die Fahrzeuge wurden nach und nach weitgehend in dieses Farbschema umlackiert.",
 
         ["br420_modern_vr_name"] = "BR 420 Schwenktüren verkehrsrot (1996)",
-		["br420_modern_vr_desc"] = "Mit der Bahnreform wurden seit 1996 die Nahverkehrszüge in verkehrsrot mit weißen Türen umlackiert. Bis heute dauern die Einsätze zumindest im Münchner nEtz immer noch an.",
+		["br420_modern_vr_desc"] = "Mit der Bahnreform wurden seit 1996 die Nahverkehrszüge in verkehrsrot mit weißen Türen umlackiert. Bis heute dauern die Einsätze zumindest im Münchner Netz immer noch an.",
 
         ["br420_modern_werbung_sz_name"] = "BR 420 Schwenktüren Süddeutsche Zeitung (2005)",
 		["br420_modern_werbung_sz_desc"] = "Ganzflächige Werbefolierung der Süddeutschen Zeitung.",
+
+        ["br420_werbung_saturn_isdn_name"] = "BR 420 Vollwerbung Saturn ISDN (2000)",
+		["br420_werbung_saturn_isdn_desc"] = "Ganzflächige Werbefolierung von Saturn und der Deutschen Telekom.",
+
+        ["br420_werbung_schwabenbraeu_name"] = "BR 420 Werbung Schwaben Bräu (1984)",
+        ["br420_werbung_schwabenbraeu_desc"] = "Fahrzeug der S-Bahn Stuttgart mit Werbefolierung für Schwabenbräu.",
+
+        ["br420_led_vr_name"] = "BR 420 mit LED Lichtern, verkehrsrot (2014)",
+		["br420_led_vr_desc"] = "Mit LED Lichtern und Zugzielanzeige.",
 
 	},
 }
