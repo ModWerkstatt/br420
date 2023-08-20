@@ -39,11 +39,23 @@ return {
         ["br420_modern_werbung_sz_name"] = "Class 420 Hinged doors Süddeutsche Zeitung (2005)",
 		["br420_modern_werbung_sz_desc"] = "Full-surface advertising wrapping of the Süddeutsche Zeitung.",
 
-        ["br420_werbung_saturn_isdn_name"] = "BR 420 Full body ad Saturn ISDN (2000)",
+        ["br420_werbung_saturn_isdn_name"] = "Class 420 Full body ad Saturn ISDN (2000)",
 		["br420_werbung_saturn_isdn_desc"] = "Full-surface advertising wrapping of Saturn and Deutsche Telekom.",
 
-        ["br420_werbung_schwabenbraeu_name"] = "BR 420 Advert Schwaben Bräu (1984)",
+        ["br420_werbung_schwabenbraeu_name"] = "Class 420 Advert Schwaben Bräu (1984)",
         ["br420_werbung_schwabenbraeu_desc"] = "Vehicle of S-Bahn Stuttgart with ads for Schwabenbräu.",
+
+        ["br420_s_stuttgart_name"] = "Class 420 S-Bahn Stuttgart (2001)",
+        ["br420_s_stuttgart_desc"] = "Vehicle of S-Bahn Stuttgart",
+
+        ["br420_s_muenchen_name"] = "Class 420 S-Bahn München (2001)",
+        ["br420_s_muenchen_desc"] = "Vehicle of S-Bahn München",
+
+        ["br420_s_frankfurt_name"] = "Class 420 S-Bahn Frankfurt (2001)",
+        ["br420_s_frankfurt_desc"] = "Vehicle of S-Bahn Frankfurt",
+
+        ["br420_s_koeln_name"] = "Class 420 S-Bahn Köln (2001)",
+        ["br420_s_koeln_desc"] = "Vehicle of S-Bahn Köln",
 
         ["br420_led_vr_name"] = "Class 420 with LED lights, traffic red (2014)",
 		["br420_led_vr_desc"] = "With LED lights and train indicator.",
@@ -93,6 +105,18 @@ return {
 
         ["br420_werbung_schwabenbraeu_name"] = "BR 420 Werbung Schwaben Bräu (1984)",
         ["br420_werbung_schwabenbraeu_desc"] = "Fahrzeug der S-Bahn Stuttgart mit Werbefolierung für Schwabenbräu.",
+
+        ["br420_s_stuttgart_name"] = "BR 420 S-Bahn Stuttgart (2001)",
+        ["br420_s_stuttgart_desc"] = "Fahrzeug der S-Bahn Stuttgart",
+
+        ["br420_s_muenchen_name"] = "BR 420 S-Bahn München (2001)",
+        ["br420_s_muenchen_desc"] = "Fahrzeug der S-Bahn München",
+
+        ["br420_s_frankfurt_name"] = "BR 420 S-Bahn Frankfurt (2001)",
+        ["br420_s_frankfurt_desc"] = "Fahrzeug der S-Bahn Frankfurt",
+
+        ["br420_s_koeln_name"] = "BR 420 S-Bahn Köln (2001)",
+        ["br420_s_koeln_desc"] = "Fahrzeug der S-Bahn Köln",
 
         ["br420_led_vr_name"] = "BR 420 mit LED Lichtern, verkehrsrot (2014)",
 		["br420_led_vr_desc"] = "Mit LED Lichtern und Zugzielanzeige.",
