@@ -601,7 +601,7 @@ return {
 					},
 					{
 						materials = { "vehicle/waggon/br421/innen_90.mtl", },
-						mesh = "vehicle/waggon/br421/innen_lod0.msh",
+						mesh = "vehicle/waggon/br421/innen_modern_lod0.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
