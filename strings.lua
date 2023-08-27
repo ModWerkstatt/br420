@@ -48,13 +48,13 @@ return {
         ["br420_s_stuttgart_name"] = "Class 420 S-Bahn Stuttgart (2001)",
         ["br420_s_stuttgart_desc"] = "Vehicle of S-Bahn Stuttgart",
 
-        ["br420_s_muenchen_name"] = "Class 420 S-Bahn München (2001)",
+        ["br420_s_muenchen_name"] = "Class 420 S-Bahn München (2000)",
         ["br420_s_muenchen_desc"] = "Vehicle of S-Bahn München",
 
-        ["br420_s_frankfurt_name"] = "Class 420 S-Bahn Frankfurt (2001)",
+        ["br420_s_frankfurt_name"] = "Class 420 S-Bahn Frankfurt (1999)",
         ["br420_s_frankfurt_desc"] = "Vehicle of S-Bahn Frankfurt",
 
-        ["br420_s_koeln_name"] = "Class 420 S-Bahn Köln (2001)",
+        ["br420_s_koeln_name"] = "Class 420 S-Bahn Köln (2000)",
         ["br420_s_koeln_desc"] = "Vehicle of S-Bahn Köln",
 
         ["br420_led_vr_name"] = "Class 420 with LED lights, traffic red (2014)",
@@ -109,13 +109,13 @@ return {
         ["br420_s_stuttgart_name"] = "BR 420 S-Bahn Stuttgart (2001)",
         ["br420_s_stuttgart_desc"] = "Fahrzeug der S-Bahn Stuttgart",
 
-        ["br420_s_muenchen_name"] = "BR 420 S-Bahn München (2001)",
+        ["br420_s_muenchen_name"] = "BR 420 S-Bahn München (2000)",
         ["br420_s_muenchen_desc"] = "Fahrzeug der S-Bahn München",
 
-        ["br420_s_frankfurt_name"] = "BR 420 S-Bahn Frankfurt (2001)",
+        ["br420_s_frankfurt_name"] = "BR 420 S-Bahn Frankfurt (1999)",
         ["br420_s_frankfurt_desc"] = "Fahrzeug der S-Bahn Frankfurt",
 
-        ["br420_s_koeln_name"] = "BR 420 S-Bahn Köln (2001)",
+        ["br420_s_koeln_name"] = "BR 420 S-Bahn Köln (2000)",
         ["br420_s_koeln_desc"] = "Fahrzeug der S-Bahn Köln",
 
         ["br420_led_vr_name"] = "BR 420 mit LED Lichtern, verkehrsrot (2014)",

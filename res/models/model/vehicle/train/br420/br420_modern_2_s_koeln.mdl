@@ -2463,8 +2463,8 @@ return {
 			},
 		},
         availability = {
-			yearFrom = 2001,
-			yearTo = 2016,
+			yearFrom = 2000,
+	--		yearTo = 0,
 		},
 		cost = {
 			price = -1,
