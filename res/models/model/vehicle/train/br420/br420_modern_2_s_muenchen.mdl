@@ -618,7 +618,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br420/fenster.mtl", },
+						materials = { "vehicle/train/br420/fenster_modern.mtl", },
 						mesh = "vehicle/train/br420/fenster_lod0.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -1243,7 +1243,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br420/fenster_airport.mtl", },
+						materials = { "vehicle/train/br420/fenster_modern.mtl", },
 						mesh = "vehicle/train/br420/fenster_lod0.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -1844,7 +1844,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br420/fenster_airport.mtl", },
+						materials = { "vehicle/train/br420/fenster_modern.mtl", },
 						mesh = "vehicle/train/br420/fenster_lod0.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -2433,7 +2433,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br420/fenster_airport.mtl", },
+						materials = { "vehicle/train/br420/fenster_modern.mtl", },
 						mesh = "vehicle/train/br420/fenster_lod0.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },

@@ -612,7 +612,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -8.3364572525024, -1.4925030469894, 1.0378695726395, 1, },
 					},
 					{
-						materials = { "vehicle/train/br420/innen_70.mtl", },
+						materials = { "vehicle/train/br420/innen_90.mtl", },
 						mesh = "vehicle/train/br420/innen_1_lod0.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -1237,7 +1237,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -8.3364572525024, -1.4925030469894, 1.0378695726395, 1, },
 					},
 					{
-						materials = { "vehicle/train/br420/innen_70.mtl", },
+						materials = { "vehicle/train/br420/innen_90.mtl", },
 						mesh = "vehicle/train/br420/innen_1_lod0.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -1838,7 +1838,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -8.3364572525024, -1.4925030469894, 1.0378695726395, 1, },
 					},
 					{
-						materials = { "vehicle/train/br420/innen_70.mtl", },
+						materials = { "vehicle/train/br420/innen_90.mtl", },
 						mesh = "vehicle/train/br420/innen_1_lod0.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -2427,7 +2427,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -8.3364572525024, -1.4925030469894, 1.0378695726395, 1, },
 					},
 					{
-						materials = { "vehicle/train/br420/innen_70.mtl", },
+						materials = { "vehicle/train/br420/innen_90.mtl", },
 						mesh = "vehicle/train/br420/innen_1_lod0.msh",
 						name = "rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
