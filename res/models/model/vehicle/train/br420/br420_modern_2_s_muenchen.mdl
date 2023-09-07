@@ -2453,9 +2453,10 @@ return {
 				{
 					alignment = "CENTER",
 					childId = "RootNode",
-					color = { 255, 255, 255, 1, },
+					color = { 1, 1, 1,  },
                     filter = "TEXT",
 					fitting = "SCALE",
+					renderMode = "EMISSIVE",
 					size = { 1.4, 0.19, },
                     transf = { 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 12.22, -0.7, 3.29, 1, },
 					type = "LINE_NAME",
