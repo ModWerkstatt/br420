@@ -27,7 +27,7 @@ return {
 			wrapT = "CLAMP_TO_EDGE",
 		},
         map_cblend_dirt_rust = {
-			fileName = "models/vehicle/train/br421/allgemein_cblend_dirt_rust.dds",
+			fileName = "models/vehicle/train/br420/allgemein_cblend_dirt_rust.dds",
 			type = "TWOD",
 			wrapS = "CLAMP_TO_EDGE",
 			wrapT = "CLAMP_TO_EDGE",
