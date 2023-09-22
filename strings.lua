@@ -45,6 +45,9 @@ return {
         ["br420_werbung_schwabenbraeu_name"] = "Class 420 Advert Schwaben Bräu (1984)",
         ["br420_werbung_schwabenbraeu_desc"] = "Vehicle of S-Bahn Stuttgart with ads for Schwabenbräu.",
 
+        ["br420_werbung_cola_name"] = "Class 420 Advert Coca Cola (1984)",
+        ["br420_werbung_cola_desc"] = "Vehicle of S-Bahn Stuttgart with ads for Coca Cola.",
+
         ["br420_s_stuttgart_name"] = "Class 420 S-Bahn Stuttgart (2001)",
         ["br420_s_stuttgart_desc"] = "Vehicle of S-Bahn Stuttgart",
 
@@ -105,6 +108,9 @@ return {
 
         ["br420_werbung_schwabenbraeu_name"] = "BR 420 Werbung Schwaben Bräu (1984)",
         ["br420_werbung_schwabenbraeu_desc"] = "Fahrzeug der S-Bahn Stuttgart mit Werbefolierung für Schwabenbräu.",
+
+        ["br420_werbung_cola_name"] = "BR 420 Werbung Coca Cola (1984)",
+        ["br420_werbung_cola_desc"] = "Fahrzeug der S-Bahn Stuttgart mit Werbefolierung für Coca Cola.",
 
         ["br420_s_stuttgart_name"] = "BR 420 S-Bahn Stuttgart (2001)",
         ["br420_s_stuttgart_desc"] = "Fahrzeug der S-Bahn Stuttgart",
