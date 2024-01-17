@@ -2517,6 +2517,7 @@ return {
 			weight = 45,
 		},
 		seatProvider = {
+			crewModels = {"characters/era_c_driver_rail.mdl" },
 			drivingLicense = "RAIL",
 			seats = {
 				{
